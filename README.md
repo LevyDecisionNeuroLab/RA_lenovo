@@ -9,7 +9,7 @@ To run the study:
 ### Brief description: 
 Examine risk and ambiguity attitudes in the monetary gain and loss domains (imaging).
 
-### Software
+### Software:
 Practice in e-prime; scan in Matlab Psychtoolbox
 
 ### Trial types: Each choice is between $±5 for sure and a risky or ambiguous lottery. 
@@ -31,8 +31,8 @@ Trials are created in the Gain1 and Loss1 scripts (basically the first time you 
   - feedback image (500ms)
   - fixation (jittered 4000, 6000, 8000 ms + (3500ms-response time))
 
-### Response
+### Response:
 Press one of two buttons.
 
-### Payoff
+### Payoff:
 Real. Subject gets $120 endowment. At the end of the experiment, one trial is randomly selected by rolling a die. Real bags are used as lotteries.  
